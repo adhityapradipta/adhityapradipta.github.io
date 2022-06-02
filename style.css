@@ -17,7 +17,7 @@
   background-image: url(cover/itdark.jpg);
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8);
   background-size: cover;
-  height: 650px;
+  height: 700px;
   width: 100%;
 }
 
@@ -31,7 +31,6 @@ section {
 
 #myBtn {
   display: none;
-  opacity: 50%;
   position: fixed;
   bottom: 25px;
   right: 35px;
@@ -42,7 +41,7 @@ section {
   color: white;
   cursor: pointer;
   border-radius: 5px;
-  font-size: 35px;
+  font-size: 40px;
 }
 
 /* Desktop Version */
