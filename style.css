@@ -13,7 +13,7 @@
   /* Photo by <a href="https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Glenn Carstens-Peters</a> on <a href="https://unsplash.com/s/photos/it-dark?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
    */
   font-family: viga;
-  padding-top: 5rem;
+  padding-top: 8rem;
   background-image: url(cover/itdark.jpg);
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8);
   background-size: cover;
